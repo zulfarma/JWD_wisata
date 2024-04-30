@@ -23,13 +23,9 @@
       </div>
     </div>
   </nav>
-  <div class="container"> 
-    <h2>Pemesanan Paket Wisata</h2>
-  </div>
-
-  <!-- Footer -->
-  <?php include "layout/footer.php"?>
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <div class="px-5 py-4 text-white rounded" style="background-color: #79beff;">
+      <h1>Wisata Indonesia</h1>
+        <p>Wonderful Indonesia</p>
+    </div>
 </body>
 </html>
